@@ -37,13 +37,13 @@ function Blogs() {
               for single column layouts.
             </p>
 
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
-            <Image src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
+            <Image alt="abc1" src="/images/head-img.png" style={{ marginTop: "2em" }} />
             <p>
               Pellentesque habitant morbi tristique senectus et netus et
               malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat

@@ -17,6 +17,7 @@ import { Card, Grid, Label, Segment } from "semantic-ui-react";
 
 const listSlides = [
   <CardStyle1
+  key="1"
     imgSrc="https://swiperjs.com/demos/images/nature-1.jpg"
     header="Matthew"
     meta="Joined in 2015"
@@ -25,6 +26,7 @@ const listSlides = [
     iconContent="22 Friends"
   />,
   <CardStyle1
+  key="2"
     imgSrc="https://swiperjs.com/demos/images/nature-2.jpg"
     header="Matthew"
     meta="Joined in 2015"
@@ -33,6 +35,7 @@ const listSlides = [
     iconContent="22 Friends"
   />,
   <CardStyle1
+  key="3"
     imgSrc="https://swiperjs.com/demos/images/nature-3.jpg"
     header="Matthew"
     meta="Joined in 2015"
@@ -41,6 +44,7 @@ const listSlides = [
     iconContent="22 Friends"
   />,
   <CardStyle1
+  key="4"
     imgSrc="/images/4481677.jpg"
     header="Matthew"
     meta="Joined in 2015"
