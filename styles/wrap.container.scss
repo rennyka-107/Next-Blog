@@ -1,0 +1,125 @@
+.bg-cover {
+  // background: url("/images/q763_3kls_210510.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 100% !important;
+  position: relative;
+  z-index: 999;
+}
+
+.bg-linear {
+  padding: .3em;
+  background: rgb(240, 240, 240) !important;
+}
+
+.bg-unset {
+  background: unset !important;
+}
+
+.m-heigh-700 {
+  min-height: 700px;
+}
+
+.p-1-0 {
+  padding: .8em 0em;
+}
+
+// .p-0 {
+//   padding: 0 !important;
+// }
+
+.menu-item {
+  line-height: 20px !important;
+  border-radius: 8px;
+  font-family: cursive;
+}
+
+.navbar-item {
+  // color: #d400da !important;
+  // color: #4facfe !important;
+  color: white !important;
+  font-size: 1.5em;
+  padding: 0.9em 0.5em !important;
+}
+
+.navbar-item:hover {
+  color: white !important;
+  background: #f857a6 !important;
+  // background: -webkit-linear-gradient(to right, #e93fb6, #cb48ec) !important;
+  background: -webkit-linear-gradient(
+    to right,
+    #4facfe 0%,
+    #00f2fe 100%
+  ) !important;
+  // background: linear-gradient(to right, #e93fb6, #cb48ec) !important;
+  background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%) !important;
+}
+
+.cool-button {
+  color: white !important;
+  padding: 10px 30px !important;
+  border-radius: 5px !important;
+  background: #f857a6 !important;
+  // background: -webkit-linear-gradient(to right, #e93fb6, #cb48ec) !important;
+  background: -webkit-linear-gradient(
+    to right,
+    #4facfe 0%,
+    #00f2fe 100%
+  ) !important;
+  // background: linear-gradient(to right, #e93fb6, #cb48ec) !important;
+  background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%) !important;
+  box-shadow: 0 10px 10px -2px rgba(0, 0, 0, 0.25) !important;
+  border: 0 !important;
+  font-family: cursive !important;
+}
+
+.cool-button:hover {
+  // background: -webkit-linear-gradient(to right, #e901a3, #b70ce2) !important;
+  background: -webkit-linear-gradient(
+    to right,
+    #00f2fe 0%,
+    #4facfe 100%
+  ) !important;
+  // background: linear-gradient(to right, #e901a3, #b70ce2) !important;
+  background: linear-gradient(to right, #00f2fe 0%, #4facfe 100%) !important;
+  box-shadow: 0 10px 10px -2px rgba(255, 255, 255, 0.25) !important;
+}
+
+.star-drop {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: -200%;
+  left: 0;
+  z-index: -999;
+}
+
+.star-1-drop {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: -100%;
+  left: 0;
+  z-index: -999;
+}
+
+.boat-and-search {
+  position: absolute;
+  left: -100%;
+  height: 150px;
+  display: flex;
+}
+
+.bs-search {
+  left: 0;
+  width: 300px;
+  position: absolute;
+  z-index: 999;
+}
+
+#bs-boat {
+  top: 5px;
+  left: 0;
+  position: absolute;
+  width: 280px;
+  height: 100px;
+}

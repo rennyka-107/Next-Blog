@@ -1,0 +1,30 @@
+@import "./wrap.container.scss";
+@import "./newest.container.scss";
+@import "./loading.scss";
+@import "./about-me.scss";
+@import "./slide.scss";
+@import "./home.scss";
+@import "./card.style2.scss";
+@import "./error.404.scss";
+@import "./ckeditor.scss";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: cursive !important;
+}
+
+
